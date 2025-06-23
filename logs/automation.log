@@ -1,0 +1,193 @@
+16:25:50.026 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+16:25:50.634 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+16:25:51.247 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+16:25:51.251 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+16:25:51.524 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+16:25:51.525 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+16:25:53.590 [main] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+16:25:53.804 [main] INFO  testCases.TC002_Login - Clicked on My Account
+16:25:54.291 [main] ERROR testCases.TC002_Login - Test Failed...
+16:25:54.291 [main] DEBUG testCases.TC002_Login - Test Failed...
+16:25:54.291 [main] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+16:31:31.08 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+16:31:31.31 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+16:31:31.54 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+16:31:31.54 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+16:31:32.17 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+16:31:32.17 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+16:31:34.33 [main] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+16:31:34.55 [main] INFO  testCases.TC002_Login - Clicked on My Account
+16:31:35.04 [main] ERROR testCases.TC002_Login - Test Failed...
+16:31:35.04 [main] DEBUG testCases.TC002_Login - Test Failed...
+16:31:35.04 [main] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+16:33:14.60 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+16:33:14.82 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+16:33:15.04 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+16:33:15.05 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+16:33:15.67 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+16:33:15.67 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+16:33:17.70 [main] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+16:33:17.91 [main] INFO  testCases.TC002_Login - Clicked on My Account
+16:33:28.42 [main] ERROR testCases.TC002_Login - Test Failed...
+16:33:28.42 [main] DEBUG testCases.TC002_Login - Test Failed...
+16:33:28.42 [main] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+16:36:48.72 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+16:36:48.94 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+16:36:49.15 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+16:36:49.16 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+16:36:49.43 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+16:36:49.43 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+16:36:51.42 [main] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+16:36:51.64 [main] INFO  testCases.TC002_Login - Clicked on My Account
+16:36:52.13 [main] ERROR testCases.TC002_Login - Test Failed...
+16:36:52.13 [main] DEBUG testCases.TC002_Login - Test Failed...
+21:08:15.57 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+21:08:15.85 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+21:08:16.26 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+21:08:16.26 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+21:08:16.54 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+21:08:16.54 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+21:08:18.89 [main] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+21:08:19.29 [main] INFO  testCases.TC002_Login - Clicked on My Account
+21:08:20.84 [main] ERROR testCases.TC002_Login - Test Failed...
+21:08:20.84 [main] DEBUG testCases.TC002_Login - Test Failed...
+21:12:23.20 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+21:12:23.42 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+21:12:24.35 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+21:12:24.35 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+21:12:24.63 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+21:12:24.63 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+21:12:27.00 [main] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+21:12:27.23 [main] INFO  testCases.TC002_Login - Clicked on My Account
+21:12:28.08 [main] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+13:10:57.92 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+13:10:58.15 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+13:10:58.56 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+13:10:58.57 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+13:10:59.80 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+13:10:59.80 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+13:11:03.90 [main] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+13:11:04.35 [main] INFO  testCases.TC002_Login - Clicked on My Account
+13:11:05.60 [main] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+13:16:00.00 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+13:16:00.46 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+13:16:00.98 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+13:16:00.99 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+13:16:01.27 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+13:16:01.27 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+13:16:03.46 [main] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+13:16:03.67 [main] INFO  testCases.TC002_Login - Clicked on My Account
+13:16:04.54 [main] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+13:17:17.76 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+13:17:18.86 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+13:17:19.26 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+13:17:19.26 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+13:17:19.90 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+13:17:19.90 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+13:17:22.21 [main] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+13:17:22.43 [main] INFO  testCases.TC002_Login - Clicked on My Account
+13:17:23.29 [main] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+13:25:44.17 [main] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+13:25:44.40 [main] INFO  testCases.TC002_Login - Clicked on My Account
+13:25:45.66 [main] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+13:36:53.36 [main] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+13:36:53.59 [main] INFO  testCases.TC002_Login - Clicked on My Account
+13:36:54.88 [main] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+13:48:01.95 [main] INFO  testCases.TC003_LogginDDT - ******************Starting verify_loginDD************************** 
+13:48:02.18 [main] INFO  testCases.TC003_LogginDDT - ******************Finished Terify_loginDD************************** 
+19:41:44.80 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+19:41:44.80 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+19:41:44.80 [TestNG-tests-3] DEBUG testCases.TC001_AccountRegistrationTest - Test Failed...
+19:41:44.81 [TestNG-tests-3] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+19:41:44.81 [TestNG-tests-3] ERROR testCases.TC002_Login - Test Failed...
+19:41:44.81 [TestNG-tests-3] DEBUG testCases.TC002_Login - Test Failed...
+19:41:50.72 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+19:41:51.15 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+19:41:51.58 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+19:41:51.59 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+19:41:52.40 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+19:41:52.80 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+19:41:53.21 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+19:41:53.21 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+19:41:53.55 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+19:41:53.55 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+19:41:53.96 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+19:41:53.96 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+19:41:59.13 [TestNG-tests-2] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+19:41:59.38 [TestNG-tests-2] INFO  testCases.TC002_Login - Clicked on My Account
+19:41:59.64 [TestNG-tests-1] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+19:41:59.87 [TestNG-tests-1] INFO  testCases.TC002_Login - Clicked on My Account
+19:42:01.15 [TestNG-tests-1] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+19:42:01.42 [TestNG-tests-2] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+19:45:45.23 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+19:45:45.66 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+19:45:46.80 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+19:45:46.80 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+19:45:46.92 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+19:45:47.68 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+19:45:48.12 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+19:45:48.12 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+19:45:48.17 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+19:45:48.17 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+19:45:48.94 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+19:45:48.94 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+19:45:54.49 [TestNG-tests-2] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+19:45:55.68 [TestNG-tests-1] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+19:45:56.06 [TestNG-tests-1] INFO  testCases.TC002_Login - Clicked on My Account
+19:45:56.09 [TestNG-tests-2] INFO  testCases.TC002_Login - Clicked on My Account
+19:45:57.26 [TestNG-tests-1] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+19:45:57.79 [TestNG-tests-2] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+19:48:06.01 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+19:48:06.49 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+19:48:06.90 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+19:48:06.90 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+19:48:07.87 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+19:48:07.87 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+19:48:11.08 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+19:48:11.46 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+19:48:11.87 [TestNG-tests-1] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+19:48:12.02 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+19:48:12.02 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+19:48:12.24 [TestNG-tests-1] INFO  testCases.TC002_Login - Clicked on My Account
+19:48:12.65 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+19:48:12.65 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+19:48:13.55 [TestNG-tests-1] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+19:48:15.75 [TestNG-tests-2] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+19:48:16.55 [TestNG-tests-2] INFO  testCases.TC002_Login - Clicked on My Account
+19:48:18.03 [TestNG-tests-2] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+00:52:36.09 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+00:52:36.35 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+00:52:36.60 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+00:52:36.60 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+00:52:36.88 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+00:52:36.88 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+00:52:39.53 [main] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+00:52:39.75 [main] INFO  testCases.TC002_Login - Clicked on My Account
+00:52:40.99 [main] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+00:57:01.05 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+00:57:01.29 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+00:57:01.54 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+00:57:01.54 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+00:57:01.82 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+00:57:01.82 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+00:57:03.86 [main] INFO  testCases.TC002_Login - ******************Starting TC002_Login.java************************** 
+00:57:04.09 [main] INFO  testCases.TC002_Login - Clicked on My Account
+00:57:04.96 [main] INFO  testCases.TC002_Login - ******************Finished TC002_Login.java************************** 
+00:59:53.23 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+00:59:53.46 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+00:59:53.69 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+00:59:53.70 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+00:59:53.97 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+00:59:53.97 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+01:00:29.49 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+01:00:29.72 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+01:00:29.94 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+01:00:29.95 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+01:00:30.22 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+01:00:30.22 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
+10:10:34.73 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Starting TC001_AccountRegistrationTest************************** 
+10:10:34.97 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+10:10:35.23 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+10:10:35.23 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.........
+10:10:35.51 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue..
+10:10:35.51 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Finished TC001_AccountRegistrationTest************************** 
